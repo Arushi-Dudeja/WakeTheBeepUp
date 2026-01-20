@@ -17,9 +17,8 @@ Figuring out a way to automatically call a phone number through python API
 OpenCV for computer vision, CMake tools for development, Python API for calling, Figma for interactive design
 
 **What's next for Wake The Beep Up**
-While this is just a way for us to put our step in the game, we have several ideas for the future to enhance our application:
-
-Adding visual alerts to pop up/flash the phone screen
-Adding haptic alerts in the driver seat by integrating hardware devices to create vibrations for alerting
-Confirming state of being awake through solving a quick math question
-Adding option to either call a cab in the application
+1. While this is just a way for us to put our step in the game, we have several ideas for the future to enhance our application:
+2. Adding visual alerts to pop up/flash the phone screen
+3. Adding haptic alerts in the driver seat by integrating hardware devices to create vibrations for alerting
+4. Confirming state of being awake through solving a quick math question
+5. Adding option to either call a cab in the application
